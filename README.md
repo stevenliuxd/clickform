@@ -1,6 +1,6 @@
-# Terraform Module Source Linker
+# Tempus Docuform
 
-A simple VS Code extension that detects Terraform module source links in Tempus autoform modules and makes them clickable. Clicking a link opens the corresponding GitHub page in your browser.
+A simple VS Code extension that detects autoform module source links and makes them clickable. Clicking a link opens the corresponding GitHub page in your browser.
 
 ## Features
 
