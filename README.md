@@ -18,3 +18,6 @@ module "vpc" {
 
 ## Installation
 This extension can be installed through the VS Code marketplace.
+
+## Notes
+Currently the URL is hardcoded to use `https://github.com/${org}/${repo}/tree/master/${path}`. Feel free to fork this for your own specific usecase.
