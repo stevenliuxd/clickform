@@ -9,5 +9,4 @@ A simple VS Code extension that detects autoform module source links and makes t
 - **Opens the corresponding GitHub page** in your default browser.
 
 ## Installation
-
-## Usage
+This extension can be installed through the VS Code marketplace - Tempus Docuform.
