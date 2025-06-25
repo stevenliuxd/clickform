@@ -1,6 +1,6 @@
-# Tempus Docuform
+# Clickform
 
-A simple VS Code extension that detects autoform module source links and makes them clickable. Clicking a link opens the corresponding GitHub page in your browser.
+A simple VS Code extension that detects terraform module source links and makes them clickable. Clicking a link opens the corresponding GitHub page in your browser.
 
 ## Features
 
@@ -9,4 +9,4 @@ A simple VS Code extension that detects autoform module source links and makes t
 - **Opens the corresponding GitHub page** in your default browser.
 
 ## Installation
-This extension can be installed through the VS Code marketplace - Tempus Docuform.
+This extension can be installed through the VS Code marketplace.
