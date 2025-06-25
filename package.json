@@ -1,7 +1,8 @@
 {
   "name": "clickform",
   "displayName": "clickform",
-  "description": "A simple VS Code extension that detects autoform module source links and makes them clickable. Clicking a link opens the corresponding GitHub page in your browser.",
+  "publisher": "shnauzerr",
+  "description": "A simple VS Code extension that detects terraform module source links and makes them clickable. Clicking a link opens the corresponding GitHub page in your browser.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.101.0"
